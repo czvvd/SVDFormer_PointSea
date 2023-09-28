@@ -73,11 +73,13 @@ python main_*.py (pcn/55)
 
 ## Citation
 ```
-@inproceedings{zhu2023svdformer,
-      title={SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator}, 
-      author={Zhu, Zhe and Chen, Honghua and He, Xing and Wang, Weiming and Qin, Jing and Wei, Mingqiang},
-      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-      year={2023}
+@InProceedings{Zhu_2023_ICCV,
+    author    = {Zhu, Zhe and Chen, Honghua and He, Xing and Wang, Weiming and Qin, Jing and Wei, Mingqiang},
+    title     = {SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {14508-14518}
 }
 ```
 
