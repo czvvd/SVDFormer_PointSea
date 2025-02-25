@@ -2,17 +2,13 @@
 
 This repository contains the PyTorch implementation of these papers:
 
-**[SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator](https://arxiv.org/abs/2307.08492), ICCV 2023**
+> [**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**](https://arxiv.org/abs/2307.08492)           
+> [Zhe Zhu](https://scholar.google.com/citations?user=pM4ebg0AAAAJ), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), Xing He, Weiming Wang, Jing Qin, [Mingqiang Wei](https://scholar.google.com/citations?user=TdrJj8MAAAAJ)      
+> **ICCV 2023**
 
-<!-- <br> -->
-[Zhe Zhu](https://scholar.google.com/citations?user=pM4ebg0AAAAJ), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), Xing He, Weiming Wang, Jing Qin, [Mingqiang Wei](https://scholar.google.com/citations?user=TdrJj8MAAAAJ).
-<!-- <br> -->
-
-**[PointSea: Point Cloud Completion via Self-structure Augmentation](https://arxiv.org/abs/2502.17053), IJCV 2025, journal extension of SVDFormer**
-
-<!-- <br> -->
-[Zhe Zhu](https://scholar.google.com/citations?user=pM4ebg0AAAAJ), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), Xing He, [Mingqiang Wei](https://scholar.google.com/citations?user=TdrJj8MAAAAJ).
-<!-- <br> -->
+> [**PointSea: Point Cloud Completion via Self-structure Augmentation**](https://arxiv.org/abs/2502.17053)           
+> [Zhe Zhu](https://scholar.google.com/citations?user=pM4ebg0AAAAJ), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), Xing He, [Mingqiang Wei](https://scholar.google.com/citations?user=TdrJj8MAAAAJ)       
+> **IJCV 2025, journal extension of SVDFormer**
 
 ![example](teaser.png)
 
