@@ -76,7 +76,7 @@ python main_*.py (pcn/55)
 
 ## Citation
 ```
-@InProceedings{Zhu_2023_ICCV,
+@InProceedings{SVDFormer,
     author    = {Zhu, Zhe and Chen, Honghua and He, Xing and Wang, Weiming and Qin, Jing and Wei, Mingqiang},
     title     = {SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
@@ -84,14 +84,13 @@ python main_*.py (pcn/55)
     year      = {2023},
     pages     = {14508-14518}
 }
-@misc{zhu2025pointseapointcloudcompletion,
-      title={PointSea: Point Cloud Completion via Self-structure Augmentation}, 
-      author={Zhe Zhu and Honghua Chen and Xing He and Mingqiang Wei},
-      year={2025},
-      eprint={2502.17053},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.17053}, 
+@article{PointSea,
+  title={PointSea: Point Cloud Completion via Self-structure Augmentation},
+  author={Zhu, Zhe and Chen, Honghua and He, Xing and Wei, Mingqiang},
+  journal={International Journal of Computer Vision},
+  pages={1--25},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
